@@ -1,7 +1,5 @@
 # Wifi-Deauthentication-Tool
 
-# Wi-Fi Deauthentication Tool
-
 ### 🚀 This tool has been recreated with Python and is available on [ezhil56x/deauther](https://github.com/ezhil56x/deauther) ⚠️
 
 ## Disclaimer
